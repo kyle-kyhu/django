@@ -187,3 +187,8 @@ def resolve_url(to, *args, **kwargs):
 
     # Finally, fall back and assume it's a URL
     return to
+
+# tutorial - writing code for your ticket
+
+def make_toast():
+    return "toast"
